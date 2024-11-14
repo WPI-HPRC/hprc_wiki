@@ -1,0 +1,1 @@
+.. _edX Style Guide https://draft-edx-style-guide.readthedocs.io/en/latest/ExampleRSTFile.html
