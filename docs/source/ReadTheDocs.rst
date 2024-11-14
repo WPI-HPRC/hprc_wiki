@@ -77,6 +77,10 @@ The ``conf.py`` file should look something like this:
 
     html_theme = 'sphinx_rtd_theme'
 
+The only thing left to do now is push your changes and tell ReadTheDocs about your repository. Head over to ReadTheDocs and sign in. Add a new project, and find your repository.
+Click through the steps and specify any necessary information. Once you've added the repository, the project should show up in your Dashboard. You can view your docs by clicking
+"View Docs", or even watch it build live by clicking on "Builds". 
+
 Congratulations! You have successfully set up the ReadTheDocs for your repository! The only thing left to do is to write some documentation! ReadTheDocs uses ``.rst`` files, which
 stands for reStructuredText. It's basically Markdown but with more features and also a pain to write. Inside of ``index.rst``, write the following:
 
@@ -96,4 +100,4 @@ For reference, here's what the repository looks like right now:
 
 .. image:: images/example_image.png
 
-.. include links/links.rst
+.. include:: links/links.rst
