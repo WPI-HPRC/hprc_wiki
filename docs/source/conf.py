@@ -1,6 +1,6 @@
 # Project Information
 
-project = "hprc_wiki"
+project = "HPRC Wiki"
 copyright = "WPI HPRC"
 author = "WPI HPRC"
 
